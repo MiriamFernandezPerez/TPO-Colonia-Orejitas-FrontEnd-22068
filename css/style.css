@@ -342,7 +342,7 @@ footer{
 .social-media li{
     float: left;
     padding: .2rem .5rem;
-    font-size: medium;
+    font-size: small;
 }
 
 .social-media a{
@@ -418,6 +418,11 @@ footer{
         border-bottom: 2px solid #6678dc;
         transition: .3s;
     }
+
+    .social-media li{
+        font-size: large;
+    }
+    
 }
 
 @media screen and (min-width:769px) and (max-width:1023px){
@@ -478,6 +483,10 @@ footer{
         transition: .3s;
     }
 
+    .social-media li{
+        font-size: large;
+    }
+
     
     
 }
@@ -505,6 +514,10 @@ footer{
     .section-content{
         width: 95%;
         margin-left: 2.5%;
+    }
+    
+    .social-media li{
+        font-size: medium;
     }
 }
 
@@ -557,8 +570,7 @@ footer{
     }
 
     .social-media li{
-        padding: .8rem .1rem;
-        font-size: small;
+        padding: .8rem .2rem;
     }
 
 }
