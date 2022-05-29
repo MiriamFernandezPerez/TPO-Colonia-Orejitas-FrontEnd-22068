@@ -1,0 +1,36 @@
+/*He realizado una pequeña animación utilizando la opacidad en todos los  elementos
+del Header. Link1 es para el logotipo y el título y link2, link3 y link4 para el
+menú de navegación. Primero aparece Link1 y seguidamente el nav con un pequeño delay*/
+
+.link1{
+    opacity: 0;
+    animation: keyframes 2s;
+    -webkit-animation: keyframes 2s;
+    animation-fill-mode: forwards;
+}
+
+.link2{
+    opacity: 0;
+    animation: keyframes 1s;
+    -webkit-animation: keyframes 1s;;
+    animation-fill-mode: forwards;
+    animation-delay: .5s;
+}
+
+
+.link3{
+    opacity: 0;
+    animation: keyframes 1s;
+    -webkit-animation: keyframes 1s;;
+    animation-fill-mode: forwards;
+    animation-delay: 1s;
+}
+
+.link4{
+    opacity: 0;
+    animation: keyframes 1s;
+    -webkit-animation: keyframes 1s;;
+    animation-fill-mode: forwards;
+    animation-delay: 1.5s;
+}
+
