@@ -69,7 +69,7 @@ Estas clases garantizan que el menú funcione correctamente tanto en escritorio 
 
 # 📝 Créditos
 
-- 💻 **Proyecto:** Minishell – Escuela 42  
-- ✍️ **Autoras originales:** Miriam Fernández Pérez y Emilie Sellier
+- 💻 **Proyecto:** TPO – IT Academy
+- ✍️ **Autora original:** Miriam Fernández Pérez
 
 ---
